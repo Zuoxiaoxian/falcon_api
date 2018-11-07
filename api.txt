@@ -1,0 +1,2 @@
+{'name': 'zxx', 'age': '12'}
+{"method": "foobar", "params": {"name": "zxx", "age": "12"}, "jsonrpc": "2.0", "id": "0"}
